@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner":"soobding",
     "name": "WavyWeather",
     "slug": "WavyWeather",
     "version": "1.0.0",
@@ -29,5 +30,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     }
+
   }
 }
